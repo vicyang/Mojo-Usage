@@ -8,7 +8,7 @@ Mojolicious::Guides::Tutorial - Get started with Mojolicious
 
   这是 Mojolicious::Guides 中的起始章节，[growing]() 和 [Mojolicious::Lite]() 教学进一步指导如何构建完整的 Mojo 应用，建议读者在读完本章之后再阅读 [routing]()、 [rendering]() 等剩下的章节。
 
-* ####　Hello World
+* ###　Hello World
   Mojo的 Hello World 应用非常简单： strict, warnings, utf8 以及 Perl 5.10 特性自动开启，当你看到  Mojolicious::Lite 的时候，就已经开启了完整的 Web Application 特性。
   
   ```perl
